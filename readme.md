@@ -24,8 +24,8 @@
 - **chgksuite** ([код](https://gitlab.com/peczony/chgksuite), [документация](https://peczony.gitlab.io/chgksuite/), [чат поддержки](https://t.me/chgksuite)) - набор скриптов для упрощения редактирования и публикации пакетов.
 - [Агрегатор интеллектуального досуга](questions.md) - сохранено из поста в
   Facebook со списком различных ресурсов.
-- [Вопросникам и редакторам](for-editors.md).
-- [Игрокам и тренерам](for-training.md).
+- [Вопросникам и редакторам](https://github.com/maii-chgk/maii-site-texts/blob/main/main/library.md#вопросникам-и-редакторам%2D).
+- [Игрокам и тренерам]([for-training.md](https://github.com/maii-chgk/maii-site-texts/blob/main/main/library.md#players)).
 
 ## Результаты и статистика
 
